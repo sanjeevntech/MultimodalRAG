@@ -1,0 +1,27 @@
+preferences:
+  answer_style:
+    simple_question: concise
+    technical_question: detailed
+
+  response_format:
+    - structured
+    - step_by_step
+    - copy_paste_friendly
+
+  code:
+    provide_complete_files: true
+    avoid_partial_snippets: true
+
+  technology_bias:
+    prefer_open_source: true
+    prefer_self_hosted: true
+    avoid_vendor_lockin: true
+
+  interests:
+    - AI Agents
+    - RAG
+    - GraphRAG
+    - Multimodal AI
+    - Vector Databases
+    - Local LLMs
+    - Telecom Systems
