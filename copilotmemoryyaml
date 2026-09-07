@@ -1,27 +1,165 @@
-preferences:
-  answer_style:
-    simple_question: concise
-    technical_question: detailed
+user:
+  name: Sanjeev Nayini
+  role: Delivery Manager
+  country: India
 
-  response_format:
-    - structured
-    - step_by_step
-    - copy_paste_friendly
+professional_background:
+  telecom_expertise:
+    - HLR/HSS migration
+    - Diameter protocols
+    - IMS
+    - VoLTE
+    - SLh
+    - RIR/RIA
+    - Telecom integration projects
 
-  code:
-    provide_complete_files: true
-    avoid_partial_snippets: true
+technical_skills:
+  programming:
+    - Python
+    - C
+    - C++
+    - Shell scripting
 
-  technology_bias:
-    prefer_open_source: true
-    prefer_self_hosted: true
-    avoid_vendor_lockin: true
+  operating_systems:
+    - Linux
+    - Ubuntu
+    - Windows
+
+  infrastructure:
+    - Docker
+    - SSH
+    - VPS administration
+    - VS Code
+
+ai_expertise:
+  frameworks:
+    - LangGraph
+    - CrewAI
+    - Hermes Agent
+
+  llm_providers:
+    - Groq
+    - OpenRouter
+    - Ollama
+
+  retrieval:
+    - RAG
+    - Agentic RAG
+    - Hybrid Search
+    - GraphRAG
+    - Multimodal RAG
+
+vector_databases:
+  - ChromaDB
+  - Qdrant
+  - Weaviate
+  - Milvus
+
+graph_databases:
+  - Neo4j
+  - KuzuDB
+  - NetworkX
+  - Memgraph
+
+multimodal_ai:
+  image:
+    - CLIP embeddings
+    - OCR pipelines
+    - Image retrieval
+
+  audio:
+    - Whisper transcription
+    - Audio embeddings
+
+  video:
+    - Video retrieval
+    - Multimodal search
+
+current_projects:
+  - Building advanced RAG systems
+  - Exploring GraphRAG architectures
+  - Implementing multimodal retrieval
+  - Developing AI agents
+  - Telegram-integrated assistants
+  - Self-hosted LLM deployments
+
+infrastructure:
+  vps:
+    provider: Hostinger
+    plan: KVM4
+    ram: 16GB
+    storage: 200GB NVMe
+
+  domain:
+    - sanjeevn.tech
+
+deployment_goals:
+  - Run AI agents 24x7
+  - Host self-managed AI services
+  - Deploy local LLMs
+  - Build personal AI ecosystem
+
+hermes_agent:
+  status:
+    - Installed on VPS
+    - Connected to Telegram
 
   interests:
-    - AI Agents
-    - RAG
-    - GraphRAG
-    - Multimodal AI
-    - Vector Databases
-    - Local LLMs
-    - Telecom Systems
+    - Gmail integration
+    - Agent automation
+    - Tool calling
+    - Continuous operation
+
+gmail_api:
+  experience:
+    - OAuth setup completed
+    - Gmail API integration
+    - Python implementation
+
+  challenges:
+    - Corporate proxy restrictions
+    - Network connectivity issues
+
+technology_preferences:
+  - Open source software
+  - Self-hosted solutions
+  - Local AI deployments
+  - Cost-efficient architectures
+
+communication_preferences:
+  simple_questions:
+    - concise answers
+
+  technical_topics:
+    - detailed explanations
+    - architecture diagrams
+    - practical examples
+    - implementation guidance
+
+coding_preferences:
+  - Complete files instead of snippets
+  - Copy-paste friendly responses
+  - Production-style examples
+  - Step-by-step debugging
+
+learning_style:
+  - Hands-on experimentation
+  - Real-world use cases
+  - Executive summary first
+  - Technical deep dive second
+
+personal_traits:
+  - Analytical
+  - Detail-oriented
+  - Self-driven learner
+  - Problem solver
+  - Technology enthusiast
+
+long_term_interests:
+  - Enterprise AI assistants
+  - Agentic systems
+  - Knowledge graphs
+  - GraphRAG
+  - Multimodal AI
+  - Autonomous workflows
+  - Local LLM ecosystems
